@@ -1,0 +1,21 @@
+{
+  "name": "gdeetotdom_email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-less": "^3.3.2",
+    "gulp-minify": "^1.0.0",
+    "gulp-uglifycss": "^1.0.8",
+    "gulp-watch": "^4.3.11"
+  }
+}
