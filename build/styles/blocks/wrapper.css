@@ -1,1 +1,1 @@
-.wrapper{width:100%;font-family:sans-serif}.wrapper .wrapper__inner{width:800px}.wrapper .wrapper__inner .wrapper__main{width:800px;border-collapse:collapse;background-image:url("../../img/pattern.png")}
+.wrapper{width:100%;font-family:sans-serif}.wrapper .wrapper__inner{width:100%;max-width:800px;position:relative}.wrapper .wrapper__inner .wrapper__main{width:100%;max-width:800px;border-collapse:collapse;background-image:url("../../img/pattern.png")}
